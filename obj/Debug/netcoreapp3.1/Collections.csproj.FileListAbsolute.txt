@@ -1,0 +1,12 @@
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/bin/Debug/netcoreapp3.1/Collections.deps.json
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.json
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/bin/Debug/netcoreapp3.1/Collections.runtimeconfig.dev.json
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/bin/Debug/netcoreapp3.1/Collections.dll
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/bin/Debug/netcoreapp3.1/Collections.pdb
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/obj/Debug/netcoreapp3.1/Collections.csprojAssemblyReference.cache
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfoInputs.cache
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/obj/Debug/netcoreapp3.1/Collections.AssemblyInfo.cs
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/obj/Debug/netcoreapp3.1/Collections.csproj.CoreCompileInputs.cache
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/obj/Debug/netcoreapp3.1/Collections.dll
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/obj/Debug/netcoreapp3.1/Collections.pdb
+/Users/ianbrown35/Desktop/CODING_DOJO/C#_NET/Collections/obj/Debug/netcoreapp3.1/Collections.genruntimeconfig.cache
